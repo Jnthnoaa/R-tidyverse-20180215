@@ -130,3 +130,7 @@ ggplot(gapminder)+
        caption="Source: GAPMINDER.ORG foundation")
 
 ggsave("my_plot.png")  
+
+
+## 12:35
+
