@@ -1,7 +1,7 @@
 #strings
 library(tidyverse)
 gapminder <- gapminder::gapminder
-gapminder
+#gapminder
 
 gapminder %>% filter(str_detect(country,"Rep")) %>% 
   select(country) %>% 
